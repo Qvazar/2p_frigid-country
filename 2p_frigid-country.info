@@ -1,0 +1,52 @@
+HeaderInfo =  
+{
+	scenarioname = "2p_frigid-country",
+	scenariodescription = "",
+	maxplayers = 4,
+	scenario_battlefront = 0,
+	scenarioabbrname = "",
+	savedname = "",
+	version = 2008,
+	mapsize =  
+	{
+		384,
+		384,
+	},
+	music = "",
+	point_positions =  
+	{
+		 
+		{
+			y = 91.99210,
+			x = 69.27779,
+			owner_id = 1001,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -97.29983,
+			x = -77.33040,
+			owner_id = 1002,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -98.54473,
+			x = -30.56399,
+			owner_id = 1003,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 93.65775,
+			x = 25.42662,
+			owner_id = 1000,
+			ebp_name = "starting_position_shared_territory",
+		},
+	},
+	default_skins =  
+	{
+		"winter",
+	},
+}
+
